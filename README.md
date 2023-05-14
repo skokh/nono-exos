@@ -23,7 +23,15 @@ On pose $f(x) = \frac{1}{\sqrt{x^2+x+2}}$
 4) Etudiez les variations de $f$
 
 ## exercice 3
+On pose $f(x) = |x|x$. Le graphe de $f$ admit-il un axe/centre de symétrie?
+
+## exercice 4
+On pose $f(x) = |x|x$. Le graphe de $f$ admit-il un axe/centre de symétrie?
+
+## exercice 5
 
 On pose $f(x) = |x+2| + |3-x| + |2+4x|$
 
-Étudier les variations de $f$
+1) Étudier les variations de $f$
+2) Résoudre f(x) = 2
+3) Résoudre f(x) = 7
