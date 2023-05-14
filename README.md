@@ -1,6 +1,6 @@
 # nono-exos
 
-## exercice 1
+# exercice 1
 On pose $f(x)=\sqrt{2+x^2}$.
 
 1) Donner le domaine de définition $D_f$ de $f$
