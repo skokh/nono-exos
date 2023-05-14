@@ -10,7 +10,7 @@ On pose $f(x)=\sqrt{2+x^2}$.
 
 3) faire une étude des variations de $f$ sur $D_f$
 
-## exercice 2
+## exercice 2
 
 On pose $f(x) = \frac{1}{\sqrt{x^2+x+2}}$
 
