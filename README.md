@@ -23,7 +23,7 @@ On pose $f(x) = \frac{1}{\sqrt{x^2+x+2}}$
 4) Etudiez les variations de $f$
 
 ## exercice 3
-On pose $f(x) = {\sqrt{x^2+2*x-3}}$
+On pose $f(x) = {\sqrt{x^2+2x-3}}$
 
 1) Donner le domaine de définition $D_f$ de $f$
 
